@@ -35,6 +35,7 @@ public class WelcomePage extends Activity implements OnClickListener{
 		switch(v.getId()) {
 		case R.id.btnLogin:
 			
+			
 			break;
 			
 		case R.id.btnRegister:
@@ -46,4 +47,4 @@ public class WelcomePage extends Activity implements OnClickListener{
 	
 	
 	
-}
+} //end of class
