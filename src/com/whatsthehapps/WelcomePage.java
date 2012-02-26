@@ -36,6 +36,7 @@ public class WelcomePage extends Activity implements OnClickListener{
 		case R.id.btnLogin:
 			
 			
+			
 			break;
 			
 		case R.id.btnRegister:
